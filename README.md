@@ -24,7 +24,8 @@ Reccomended system specifications:
 For Debian/Ubuntu:
 
 ```
-   sudo apt install ffmpeg python3-pipx git
+sudo apt install ffmpeg git
+pip install pipx
 ```
 
 Then run:
